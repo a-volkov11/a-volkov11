@@ -22,10 +22,7 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |Проект 1 E-commerce  (__[github](https://github.com/a-volkov11/project_1)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,plotly|
-|Проект 2 Анализ продуктовых метрик  (__[github](https://github.com/vickiticy/for_project_2)__)|Расчет и анализ продуктовых метрик(MAU, ROMI, CR).Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается бОльшая часть клиентов.|pandas,plotly,requests,Tableau|
-|Проект 3 RFM-анализ  (__[github](https://github.com/vickiticy/for_project_3)__)|Сегментация пользователей, проведение RFM-анализа|pandas|
-|Проект 4 E-commerce  (__[github](https://github.com/a-volkov11/project_1)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,plotly|
-|Проекты SQL  (__[github](https://github.com/vickiticy/for_SQL)__)|Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL(Python+SQL), оконным функциям, визуализации в Redash|SQL,ClickHouse,PostgreSQL,  Redash,pandas,pandahouse,  numpy,seaborn,matplotlib|
+|Проект 2  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/a-volkov11/project_2)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Тест Уэлча).|pandas,pingouin,seaborn,  matplotlib,scipy,requests|
 
 ###
 
