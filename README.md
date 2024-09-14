@@ -10,13 +10,11 @@
 
 ### :man_technologist: Обо мне:
   Я Аналитик Данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с техническим образованием: инженер-строитель и инженер-энергетик.
-- :telescope: Верю,что кто то владеет информацией - тот правит миром!.
-
 - :seedling: Люблю анализировать каждое своё действие - в работе и реальной жизни, что и привело меня к изучению данной профессии.
 
 - :zap: Свободное время провожу с семьей.
 
-- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/andreyvokov11)
+- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/andreyvolkov11)
 
 ###
 
