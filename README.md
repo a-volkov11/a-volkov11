@@ -8,12 +8,6 @@
 
 <h1 align="center">Привет👋 Меня зовут Андрей!</h1>
 
-###
-   <a href="https://t.me/andreyvokov11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
 ### :man_technologist: Обо мне:
   Я Аналитик Данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с техническим образованием: инженер-строитель и инженер-энергетик.
 - :telescope: Верю,что кто то владеет информацией - тот правит миром!.
