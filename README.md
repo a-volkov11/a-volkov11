@@ -11,4 +11,6 @@
 инженер - энергетик💡
 
 
+🛠️ Языки и инструменты :
+Python  Pandas  Numpy  Plotly  Scipy  Jupyter  ClickHouse  MySQL  PostgreSQL  Redash  Airflow  GitHub  Airflow 
 
