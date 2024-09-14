@@ -12,7 +12,7 @@
   Я Аналитик Данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с техническим образованием: инженер-строитель и инженер-энергетик.
 - :seedling: Люблю анализировать каждое своё действие - в работе и реальной жизни, что и привело меня к изучению данной профессии.
 
-- :zap: Свободное время провожу с семьей.
+- :zap: Свободное время использую для познавания желаемой професии.
 
 - :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/andreyvolkov11)
 
