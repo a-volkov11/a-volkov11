@@ -14,8 +14,7 @@
 
 - :zap: Свободное время использую для познания желаемой професии.
 
-- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/andreyvolkov11) [(https://img.shields.io/badge/andrey.volkov11@rambler.ru-blue?logo=logoColor=white)]
-
+- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/andreyvolkov11)
 
 <h3 align="left">🛠 Технологии:</h3>
 
