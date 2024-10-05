@@ -41,7 +41,7 @@
 |----------------|-----------------|-----|
 |Проект 1 (__[E-commerce](https://github.com/a-volkov11/project_1)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|Python, библиотеки: pandas,plotly|
 |Проект 2  Исследование нескольких аспектов мобильной игры  (__[Plants&Gardens Analysis](https://github.com/a-volkov11/project_2)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Тест Уэлча).|Python, библиотеки: pandas, pingouin, seaborn,  matplotlib, scipy, requests|
-|Проект 3  Исследование нескольких аспектов мобильной игры  (__[A/B-test&SQL](https://github.com/a-volkov11/project_3)__)|A/B - тестирование, SQL, расчёт метрик (CR, ARPU, ARPPU, ARPAU). Проведение А/B-теста (Тест Шапиро-Уилка, T‑test Стьюдента, bootstrap ).|SQL, Python, библиотеки:pandas, pingouin, seaborn, matplotlib, numpy, scipy, requests|
+|Проект 3  Исследование нескольких аспектов мобильной игры  (__[A/B-test&SQL](https://github.com/a-volkov11/project_3)__)|A/B - тестирование (Тест Шапиро-Уилка, T‑test Стьюдента, bootstrap ), SQL, расчёт метрик (CR, ARPU, ARPPU, ARPAU).|SQL, Python, библиотеки:pandas, pingouin, seaborn, matplotlib, numpy, scipy, requests|
 ###
 
 
